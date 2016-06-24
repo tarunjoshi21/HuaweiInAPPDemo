@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/build/intermediates/res/merged/androidTest/debug/raw/opening_sound.mp3",
+        "source": "/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/build/intermediates/bundles/debug/res/raw/opening_sound.mp3"
+    },
+    {
+        "merged": "/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/build/intermediates/res/merged/androidTest/debug/raw/pt.xml",
+        "source": "/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/build/intermediates/bundles/debug/res/raw/pt.xml"
+    },
+    {
+        "merged": "/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/build/intermediates/res/merged/androidTest/debug/raw/gamesdk.apk",
+        "source": "/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/build/intermediates/bundles/debug/res/raw/gamesdk.apk"
+    },
+    {
+        "merged": "/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/build/intermediates/res/merged/androidTest/debug/raw/channel.properties",
+        "source": "/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/build/intermediates/bundles/debug/res/raw/channel.properties"
+    }
+]

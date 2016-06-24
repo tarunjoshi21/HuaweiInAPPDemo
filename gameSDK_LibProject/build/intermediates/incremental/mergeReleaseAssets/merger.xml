@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/src/main/assets"/><source path="/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/src/release/assets"/></dataSet></merger>

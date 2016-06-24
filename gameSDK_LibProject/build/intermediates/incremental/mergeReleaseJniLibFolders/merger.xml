@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/src/main/jniLibs"><file name="armeabi/libGameSDK.so" path="/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/src/main/jniLibs/armeabi/libGameSDK.so"/></source></dataSet><dataSet config="release"><source path="/media/tarun/data/Projects/Bluto/HuaweiInAPPDemo/gameSDK_LibProject/src/release/jniLibs"/></dataSet></merger>
